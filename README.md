@@ -1,2 +1,2 @@
-# hyper-dmp-change-log.github.io
+# mz-pentacle.github.io
 Hyper DMP change History
